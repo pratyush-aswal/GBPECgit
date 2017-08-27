@@ -1,0 +1,106 @@
+<h3>3RD SEMESTER BOOKS RECOMMENED IN COLLEGE BY SENIORS<small> ~by Abhishek Singh</small></h3><p>Here are the list of best books recommened by seniors to read out which are according to UTU Syllabus as well as give you helps you to catchup the basic roots.
+              
+              <table class="table table-bordered">
+                <caption class="caption">Mechanical Engineering</caption>
+
+<tr><td><b>BOOKS/SUBJECT NAME</b></td><td><b>WRITER</b></td></tr>
+
+<tr><td>Fluid Mechanics</td><td>R K Bansal</td></tr>
+
+<tr><td>SOM        </td><td>  R K Rajput</td></tr>
+
+<tr><td>Material Science  </td><td>  William Cluster</td></tr>
+
+<tr><td>Thermodynamics  </td><td>P K Nag</td></tr>
+
+<tr><td>Industrial Engg</td><td>           Class Notes</td></tr>
+</table>
+
+
+<table class="table table-bordered">
+                <caption class="caption">Civil Engineering</caption>
+
+<tr><td><b>BOOKS/SUBJECT NAME</b></td><td><b>WRITER</b></td></tr>
+
+<tr><td> Basic Surveying </td><td>S.K Duggal</td></tr>
+
+<tr><td> Fluid Mechanics</td><td>R K Bansal</td></tr>    
+
+<tr><td> Strength of Material</td><td>a) by S S Bhavikatti<br>b) by R K Bansal</td></tr>
+
+<tr><td> BMC</td><td>Class Notes</td></tr>
+
+<tr><td>Industrial Economics and Management</td><td>Class Notes</td></tr>
+
+</table>
+<table class="table table-bordered">
+                <caption class="caption"> Electronics & Communication Engineering  </caption>
+
+
+
+<tr><td><b>BOOKS/SUBJECT NAME</b></td><td><b>WRITER</b></td></tr>
+<tr><td> Signal & system              </td><td>Oppenhium</td></tr> 
+
+
+
+<tr><td> NAS     </td><td>                    A.K Chakroborty</td></tr>
+
+
+
+<tr><td> Digital Electronics  </td><td>              M. Morris Mano </td></tr>
+
+
+<tr><td>  Analog Electronics                                     </td><td> Boylstate</td></tr>
+
+
+<tr><td> Measurement and Intrumentation </td><td>       A.K.Shawney</td></tr>
+
+
+</table>
+
+<table class="table table-bordered">
+                <caption class="caption"> Computer Science & Enginerring</caption>
+
+
+<tr><td><b>BOOKS/SUBJECT NAME</b></td><td><b>WRITER</b></td></tr>
+
+
+<tr><td>Data Structure </td><td>  Lipschutz, Seymour                            
+
+
+<tr><td> Digital Electronics              </td><td>          M. Morris Manno</td></tr>
+
+
+<tr><td> DBMS                 </td><td>                      Class Notes</td></tr>
+
+
+<tr><td>Discrete Mathematics                    </td><td>                      Class Notes</td></tr>
+
+
+</table>
+
+
+
+
+<table class="table table-bordered">
+                <caption class="caption"> ELECTRICAL ENGINEERING</caption>
+
+
+
+
+<tr><td><b>BOOKS/SUBJECT NAME</b></td><td><b>WRITER</b></td></tr>
+
+
+
+<tr><td>Analog electronics</td><td>a)J B Gupta<br>b)Milliaman and Halkins</td></tr>
+
+<tr><td>Signal and system</td><td> a)Ramesh Babu<br>b)Oppenheium  </td></tr>           
+
+
+
+<tr><td>Maths </td><td>  H K Das     </td></tr>               
+
+<tr><td>NAS </td><td>A K Chakraborty</td></tr>
+
+     
+<tr><td>Electrical Measurement and Measuring Instrument</td><td>a)J B Gupta<br>b)A K Shawney</td></tr></table></p

@@ -1,0 +1,6 @@
+ <footer class="footer">
+     <div class="container">
+        <p class="text-muted">Developed by <a href="heroparty.php">Hero Party.</a> 
+      </div>
+
+    </footer>

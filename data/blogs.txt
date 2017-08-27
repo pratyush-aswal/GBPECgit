@@ -1,0 +1,6 @@
+<h3>5TH SEMESTER BOOKS RECOMMENED IN COLLEGE BY SENIORS</h3>
+<p>Here are the list of best books recommened by seniors to read out which are according to UTU Syllabus as well as give you helps you to catchup the basic roots.</p>
+<p><a class="btn btn-default" href="blog/5th-semester-books-recommened-in.php" role="button">View details &raquo;</a></p>
+<h3>3RD SEMESTER RECOMMENED BOOKS IN COLLEGE BY SENIORS FOR ALL BRANCHES</h3>
+<p>Here are the list of best books recommened by seniors to read out which are according to UTU Syllabus as well as give you helps you to catchup the basic roots.</p>
+<p><a class="btn btn-default" href="blog/3rd-semester-recommened-books-in.php" role="button">View details &raquo;</a></p>

@@ -1,0 +1,111 @@
+<h3>5TH SEMESTER BOOKS RECOMMENED IN COLLEGE BY SENIORS<small> ~by Abhishek Singh</small></h3><p>Here are the list of best books recommened by seniors to read out which are according to UTU Syllabus as well as give you helps you to catchup the basic roots.
+              
+              <table class="table table-bordered">
+                <caption class="caption">Mechanical Engineering</caption>
+
+<tr><td><b>BOOKS/SUBJECT NAME</b></td><td><b>WRITER</b></td></tr>
+
+<tr><td>Machine Design</td><td>V.B Bhandari</td></tr>
+
+<tr><td>Manufacturing Science IInd        </td><td>                                  P.N Rao</td></tr>
+
+<tr><td>Dynamics Of Machine                 </td><td>                               S.S Ratan</td></tr>
+
+<tr><td>Heat & Mass Transfer                  </td><td>                           R.K Rajput</td></tr>
+
+<tr><td>Concept of Programming & OOPS   </td><td>                E.Balagurusamy</td></tr>
+</table>
+
+
+<table class="table table-bordered">
+                <caption class="caption">Civil Engineering</caption>
+
+<tr><td><b>BOOKS/SUBJECT NAME</b></td><td><b>WRITER</b></td></tr>
+
+<tr><td> Environmental Engineering           </td><td>                           S.K Garg</td></tr>
+
+<tr><td> Geomatics Engineering                 </td><td>                          S.K Duggal</td></tr>    
+
+<tr><td> Hydrology                                     </td><td>                            S.K Garg</td></tr>
+
+<tr><td> Soil Mechanics                              </td><td>                  {a} B.C Punmia<br>
+                                                                              {b} Gopal Ranjan  </td></tr>
+
+<tr><td> Structural Analysis                        </td><td>           {a} S.S Bhavikatti<br>
+                                                                           {b} S.Ramamurtham</td></tr>
+
+</table>
+<table class="table table-bordered">
+                <caption class="caption"> Electronics & Communication Engineering  </caption>
+
+
+
+<tr><td><b>BOOKS/SUBJECT NAME</b></td><td><b>WRITER</b></td></tr>
+<tr><td> Digital Communication                </td><td>                {a} Sanjay Sharma<br>
+                                                                            {b} Symon Haykein </td></tr> 
+
+
+
+<tr><td>  Anteena & Wave Propogation      </td><td>                    A.K Gautam</td></tr>
+
+
+
+<tr><td>  Micro-Controller and Embedded Systems    </td><td>                 Mazidi</td></tr>
+
+
+<tr><td>  Control Systems                                      </td><td> </td></tr>
+
+
+<tr><td> Object Oriented Programming & Design  </td><td>       E.Balagurusami</td></tr>
+
+
+</table>
+
+<table class="table table-bordered">
+                <caption class="caption"> Computer Science & Enginerring</caption>
+
+
+<tr><td><b>BOOKS/SUBJECT NAME</b></td><td><b>WRITER</b></td></tr>
+
+
+<tr><td>Analysis and Design of Algorithms </td><td>  Cormen, Leiserson and                                                                         Rivest                                                           
+
+
+<tr><td> Computer Architecture              </td><td>                        Morris Mano</td></tr>
+
+
+<tr><td> Java Programming                 </td><td>                       E.Balagurusamy</td></tr>
+
+
+<tr><td>Microprocessors                    </td><td>                         8085 - Gaonakar<br>
+                                                                            8086 - Nagoor Kani</td></tr>
+
+
+<tr><td>Artificial Intelligence             </td><td>                               Amit Konar </td></tr></table>
+
+
+
+
+<table class="table table-bordered">
+                <caption class="caption"> ELECTRICAL ENGINEERING</caption>
+
+
+
+
+<tr><td><b>BOOKS/SUBJECT NAME</b></td><td><b>WRITER</b></td></tr>
+
+
+
+<tr><td>Electrical Machines-2                     </td><td>                               P.S Bhimra</td></tr>
+
+<tr><td>Digital Signal Processing                </td><td>                                       </td></tr>           
+
+
+
+<tr><td>Elements of Power System                   </td><td>                   {a} V.K Mehta<br>
+                                                                                    {b} I.J Nagrath   </td></tr>               
+
+<tr><td> Power Station practice                 </td><td>                                 B.R Gupta</td></tr>
+
+     
+<tr><td>Control System                          </td><td>                           Nagrath & Gopal</td></tr></table></p
